@@ -66,5 +66,4 @@ fs.appendFile('text1.txt', ' \n데이터 추가하기!', 'utf-8', function(error
     }
 
     console.log('데이터 추가 성공!');
-    // test0410
 });
